@@ -2,13 +2,11 @@
 
 I am Milkias Bekana Urgessa, Am currently working as a Software Engineer at the [Enat Bank S.C](https://www.enatbanksc.com/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-milkias-bekana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias-bekana/)](www.linkedin.com/in/milkias-bekana-6905ba208)
+[![Linkedin Badge](https://img.shields.io/badge/-milkias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias/)](www.linkedin.com/in/milkias-bekana-6905ba208)
 [![Gmail Badge](https://img.shields.io/badge/-mikeleemiko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeleemiko@gmail.com)](mailto:mikeleemiko@gmail.com)
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "www.linkedin.com/in/milkias-bekana-6905ba208"
+
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
