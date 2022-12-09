@@ -2,10 +2,8 @@
 
 I am Milkias Bekana Urgessa, Am currently working as a Software Engineer at the [Enat Bank S.C](https://www.enatbanksc.com/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-milkias-bekana-6905ba208-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias-bekana-6905ba208/)](www.linkedin.com/in/milkias-bekana-6905ba208)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-milkias-bekana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias-bekana/)](www.linkedin.com/in/milkias-bekana-6905ba208)
 [![Gmail Badge](https://img.shields.io/badge/-mikeleemiko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeleemiko@gmail.com)](mailto:mikeleemiko@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
 
 ## ⚡ Technologies
