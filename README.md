@@ -4,7 +4,7 @@ I am Milkias Bekana Urgessa, Am currently working as a Software Engineer at the 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Milkias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias/)](www.linkedin.com/in/milkias-bekana-6905ba208)
 [![Gmail Badge](https://img.shields.io/badge/-mikeleemiko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeleemiko@gmail.com)](mailto:mikeleemiko@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Milkias-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias/)]([www.linkedin.com/in/milkias-bekana-6905ba208](https://www.sololearn.com/profile/27345642))
+[![Linkedin Badge](https://img.shields.io/badge/-Milkias-green?style=flat-square&logo=sololearn&logoColor=white&link=https://www.linkedin.com/in/milkias/)]([www.linkedin.com/in/milkias-bekana-6905ba208](https://www.sololearn.com/profile/27345642))
 
 
 ## ⚡ Technologies
