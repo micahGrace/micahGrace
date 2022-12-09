@@ -4,7 +4,7 @@ I am Milkias Bekana Urgessa, Am currently working as a Software Engineer at the 
 
 [![Linkedin Badge](https://img.shields.io/badge/-milkias-bekana-6905ba208-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias-bekana-6905ba208/)](www.linkedin.com/in/milkias-bekana-6905ba208)
 [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mikeleemiko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeleemiko@gmail.com)](mailto:mikeleemiko@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
 
